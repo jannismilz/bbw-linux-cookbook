@@ -1,0 +1,2 @@
+# Aufbau / Ausführung Bash Scripting
+

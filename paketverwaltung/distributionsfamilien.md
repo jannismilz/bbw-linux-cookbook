@@ -1,6 +1,6 @@
-# 👨‍👩‍👧 Distributionsfamilien
+# 👪 Distributionsfamilien
 
-Im Linux-Ökosystem bezieht sich der Begriff Distributionsfamilien auf Gruppen von Linux-Distributionen, die ein gemeinsames Erbe, eine gemeinsame Codebasis oder gemeinsame Grundprinzipien haben. Diese Familien bestehen aus mehreren Linux-Distributionen, die auf einer ähnlichen Grundlage aufgebaut sind und oft ähnliche Eigenschaften, Paketverwaltungssysteme und Unterstützung durch die Community haben.
+Im Linux-Ökosystem bezieht sich der Begriff Distributionsfamilien auf Gruppen von Linux-Distributionen mehreren Linux-Distributionen, die auf einer ähnlichen Grundlage aufgebaut sind und oft ähnliche Eigenschaften, Paketverwaltungssysteme und Unterstützung durch die Community haben.
 
 ![Übersicht von den Distributionsfamilien](distributionsfamilien-img.png)
 
@@ -18,28 +18,28 @@ Hier sind einige bekannte Distributionsfamilien im Linux-Ökosystem:
 
 Debian, eine der ältesten und einflussreichsten Linux-Distributionen, dient als Grundlage für zahlreiche andere Distributionen. Debian-basierte Distributionen, die oft für ihre Stabilität und ihr robustes Paketverwaltungssystem (APT) bekannt sind, übernehmen viele der Eigenschaften von Debian und führen gleichzeitig ihre eigenen einzigartigen Merkmale ein. Einige beliebte Debian-basierte Distributionen sind:
 
--   Ubuntu
--   Mint
--   Kali
+* Ubuntu
+* Mint
+* Kali
 
 ### 2. RedHat-basierte Distributionen
 
 Red Hat, ein bedeutender Akteur auf dem Markt für Unternehmens-Linux, hat seine eigene Familie von Distributionen hervorgebracht. Red Hat-basierte Distributionen konzentrieren sich in der Regel auf Stabilität, Sicherheit und Support, was sie zu einer beliebten Wahl für Unternehmen und Organisationen macht. Die bekannteste Red Hat-basierte Distribution ist:
 
--   Red Hat Enterprise Linux (RHEL)
+* Red Hat Enterprise Linux (RHEL)
 
 Andere Distributionen in dieser Familie sind:
 
--   CentOS
--   Fedora
+* CentOS
+* Fedora
 
 ### 3. Arch Linux-basierte Distributionen
 
 Arch Linux, das für seine Einfachheit, Flexibilität und "Do-it-yourself"-Philosophie bekannt ist, hat die Entwicklung mehrerer minimalistischer und stark anpassbarer Distributionen beeinflusst. Diese Distributionen bieten oft rollierende Aktualisierungen und verwenden Paketverwaltungssysteme wie Pacman und das Arch User Repository (AUR). Einige beliebte Arch Linux-basierte Distributionen sind:
 
--   Manjaro
--   EndeavourOS
--   ArcoLinux
+* Manjaro
+* EndeavourOS
+* ArcoLinux
 
 ## Abschliessend
 
